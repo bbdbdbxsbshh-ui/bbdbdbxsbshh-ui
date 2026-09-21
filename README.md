@@ -4,8 +4,11 @@
 Активно развиваюсь в IT и создаю свои первые проекты.
 
 ### 🛠️ Мой стек технологий:
-* **Языки:** Python, HTML5, CSS3, изучаю C++
-* **Библиотеки и технологии:** Telebot (PyTelegramBotAPI)
+![Python](https://shields.io)
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![C++](https://shields.io)
+![Git](https://shields.io)
 
 
 <!--
