@@ -1,4 +1,12 @@
-## Hi there 👋
+# Привет! Я техник-программист🚀
+
+Учусь на 2 курсе в Бобруйском государственном лесотехническом колледже (БГЛК). 
+Активно развиваюсь в IT и создаю свои первые проекты.
+
+### 🛠️ Мой стек технологий:
+* **Языки:** Python, HTML5, CSS3, изучаю C++
+* **Библиотеки и технологии:** Telebot (PyTelegramBotAPI)
+
 
 <!--
 **bbdbdbxsbshh-ui/bbdbdbxsbshh-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
